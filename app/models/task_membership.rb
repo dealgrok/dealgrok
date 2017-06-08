@@ -1,0 +1,2 @@
+class TaskMembership < ApplicationRecord
+end
